@@ -1,0 +1,107 @@
+.main_body {
+    text-align: center;
+    height: 750px;
+    background: skyblue;
+	font-family: Century Gothic;
+	color: #ffffff;
+}
+
+.home_body {
+    text-align: center;
+    background: skyblue;
+    height: 100%;
+	font-family: Century Gothic;
+}
+
+.body_text {
+    font-family: Century Gothic;
+    font-size: 160%;
+}
+
+
+/* Navigation */
+.navigation {
+    border-radius: 1px;
+    border: 2px;
+    height: 20%;
+    width: auto;
+    padding: 20px;
+    overflow: hidden;
+    text-indent: 60px;
+    text-align: center;
+    overflow: hidden;
+    bottom: 20px;
+    right: 10px; 
+	font-family: Berlin Sans FB;
+	font-size: 30px;
+	background-color: white;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    
+	text-align: center;
+	
+	
+}
+h2{
+	color: white;
+	font-size: 20px;
+}
+
+a:visited {
+    color: skyblue;	
+}
+
+a:hover {
+    color: skyblue;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+.footer {
+    border: 1px;
+    height: 20px;
+    padding: 20px;
+    min-width: 1255px;
+    margin: auto;
+    background-color: black;
+	color: white;
+	font-family: Century Gothic;
+    
+}
+
+.content{
+    border-radius: 5px;
+    border: 2px solid;
+    padding: 20px; 
+    height: auto;
+    width: 25%;
+    display: inline-block;
+    margin: 80px;
+	color: white;
+}
+td{
+color: yellow;
+}
+th{
+color: white;
+}
+tr{
+color: yellow;
+}
+.x{
+	color:white;
+}
+h1{
+ color: white;
+
+}
